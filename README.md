@@ -16,4 +16,4 @@ To do it follow instructions below:
 3) Run `git clone https://github.com/abrodowicz/API testing basics` to clone this repository
 4) Run `cd API_tests` to move to local repository folder
 5) Run command `pipenv shell` to activate the virtual environment
-6) Run command `python API_tests.py` to run the code
+6) Run command `python main.py` to run the code
